@@ -1,0 +1,21 @@
+h1,h2,h3,h4{
+	font-family: 'Exo 2', sans-serif;
+}
+.contenedor h1{
+	font-family: 'Exo 2', sans-serif;
+	color: #D73736;
+	font-size: 50px;
+	text-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+	position: relative;
+}
+
+.contenedor {
+	text-align: center;
+}
+
+.portada{
+	position: relative;
+	height: 100vh;
+	display:flex;
+	justify: center;
+}
