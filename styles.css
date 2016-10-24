@@ -1,28 +1,27 @@
 body {
-	margin: 0;
-	width: 100vw;
+    margin: 0;
+    width: 100%;
 }
 
-h1,h2,h3,h4{
-	font-family: 'Exo 2', sans-serif;
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Exo 2', sans-serif;
 }
-.contenedor h1{
-	font-family: 'Exo 2', sans-serif;
 
-	color: blue;
-
-	font-size: 50px;
-	text-shadow: 4px 4px 4px rgba(0,0,0,0.5);
-	position: relative;
+.contenedor h1 {
+    font-family: 'Exo 2', sans-serif;
+    color: blue;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    position: relative;
 }
 
 .contenedor {
-	text-align: center;
+    text-align: center;
 }
 
-.portada{
-	position: relative;
-	height: 100vh;
-	display:flex;
-	justify: center;
+.portada {
+    position: relative;
 }
